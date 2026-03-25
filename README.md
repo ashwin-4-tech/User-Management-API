@@ -13,3 +13,4 @@ A lightweight, efficient REST API built with Node.js and Express for managing us
 1. **Install Dependencies**:
    ```bash
    npm install
+   npm run dev
