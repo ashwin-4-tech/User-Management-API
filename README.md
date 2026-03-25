@@ -14,3 +14,5 @@ A lightweight, efficient REST API built with Node.js and Express for managing us
    ```bash
    npm install
    npm run dev
+
+I chose a Modular Monolith approach to prioritize speed and zero-dependency setup. By using Express middleware for JSON parsing and a clean array-based state, the API remains highly performant and easy to test without the overhead of an external database configuration.
